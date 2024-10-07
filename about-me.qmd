@@ -1,5 +1,7 @@
 ---
 title: "Parsa Khayatzadeh"
+execute: 
+  freeze: true
 image: profile.png
 about:
   template: jolla

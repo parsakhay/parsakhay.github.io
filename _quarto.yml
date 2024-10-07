@@ -6,11 +6,12 @@ website:
   navbar:
     left: 
       - text: About me
-      - href: about-me.qmd
+        href: about-me.qmd
+        icon: person-circle
     right:
       - icon: twitter
         text: Twitter
-        href: https://twitter.com
+        href: https://twitter.com/parsakhay
       - icon: linkedin
         text: LinkedIn
         href: https://linkedin.com
