@@ -17,19 +17,4 @@ about:
 ---
 
 
-
-```{js}
-function checkPassword() {
-  var password = prompt("Please enter the password to access this page:");
-  if (password !== "yourpassword") {
-      alert("Incorrect password. Access denied.");
-      window.location.href = "https://example.com"; // Redirect if incorrect
-  } else {
-      alert("Access granted.");
-  }
-}
-
-checkPassword();
-```
-
 About this blog
