@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Parsa Khayatzadeh"
+image: profile.png
 about:
   template: jolla
   links:
@@ -16,5 +16,3 @@ about:
 
 ---
 
-
-About this blog
