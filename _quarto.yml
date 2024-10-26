@@ -14,10 +14,10 @@ website:
         href: https://twitter.com/parsakhay
       - icon: linkedin
         text: LinkedIn
-        href: https://linkedin.com
+        href: https://linkedin.com/in/khayatzadeh
       - icon: github
         text: Github
-        href: https://github.com
+        href: https://github.com/parsakhay
 format:
   html:
     theme: cosmo
