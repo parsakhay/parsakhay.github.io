@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
+  favicon: favicon.svg
   title: "Parsa's Personal Webpage"
   navbar:
     left: 

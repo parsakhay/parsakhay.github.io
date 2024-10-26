@@ -18,13 +18,10 @@ about:
       href: https://twitter.com
 
 ---
-
-::: {style="text-align: justify;"}
-
+::: {style="text-align: justify; width: 45%; float: left; margin-right: 5%;"}
 Hi! My name is Parsa Khayatzadeh, I am a Ph.D. student in Systems Engineering at Cornell University. I am a member of Charles' research group focusing on computational sustainability under supervision of Prof. Michael Charles. My current research focus is on Integrated Assessment modeling.
 
 I have started my Ph.D. in fall 2023. Before then, I received my B.Sc. in Industrial Engineering from University of Tehran in 2022.
-
 
 I am interested in the human-earth models and the intersection of climate, economy, and society. My study includes both systems analysis and optimization.
 
@@ -32,3 +29,12 @@ Feel free to reach out to me if you have any questions or if you would like to c
 
 :::
 
+
+:::{.container}
+
+[Notebook](notebook.qmd){.btn .btn-light .btn-block}\
+\
+[Research](research.qmd){.btn .btn-light}\
+\
+[Media](media.qmd){.btn .btn-light}
+:::

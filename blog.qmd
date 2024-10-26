@@ -1,0 +1,12 @@
+---
+title: "Notebook"
+listing:
+    contents: posts
+    sort: "date desc"
+    type: grid
+    categories: true
+    sort-ui: true
+    filter-ui: true
+---
+
+Welcome to my blog! Here you will find all my latest posts.
