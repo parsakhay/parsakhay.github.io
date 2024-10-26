@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Parsa Khayatzadeh – Parsa’s Personal Webpage</title>
+<title>Research Page – Parsa’s Personal Webpage</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -94,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> <i class="bi bi-globe" role="img">
+    <a class="nav-link active" href="./research.html" aria-current="page"> <i class="bi bi-globe" role="img">
 </i> 
 <span class="menu-text">Research</span></a>
   </li>  
@@ -133,50 +134,44 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla column-page">
-  <img src="profile.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Parsa Khayatzadeh</h1>
-<p class="subtitle lead">Systems Engineering Ph.D.&nbsp;Student | Cornell University</p>
+<h1 class="title">Research Page</h1>
+<p class="subtitle lead">Individual and lab research activities</p>
 </div>
+
+
+
 <div class="quarto-title-meta column-page">
+
+    
+  
+    
   </div>
-</header><main class="content column-page" id="quarto-document-content">
-<div style="text-align: justify;">
-<p>Hi! My name is Parsa Khayatzadeh. I am a Ph.D.&nbsp;student in Systems Engineering at Cornell University. I am a member of Charles’ research group, focusing on computational sustainability under the supervision of Prof.&nbsp;Michael Charles. My current research focus is on Integrated Assessment modeling.</p>
-<p>I have started my Ph.D.&nbsp;in fall 2023. Before then, I received my B.Sc. in Industrial Engineering from University of Tehran in 2022.</p>
-<p>I am interested in the human-earth models and the intersection of climate, economy, and society. My study includes both systems analysis and optimization.</p>
-<p>Feel free to reach out to me if you have any questions or if you would like to collaborate on a project. I am always open to new ideas and opportunities!</p>
-</div>
-<div class="container">
-<p><a href="./notes.html" class="btn btn-light btn-block">My notes</a><br>
-<br>
-<a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn btn-light">Latest Update of my research</a><br>
-<br>
-<a href="media.qmd" class="btn btn-light">Some Photos</a></p>
+  
+
+
+</header>
+
+
+<section id="current-projects" class="level2 text-center">
+<h2 class="anchored" data-anchor-id="current-projects">Current Projects:</h2>
+</section>
+<p><strong>Downscaled Integrated Assessment Modeling</strong></p>
+<p><a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn btn-primary">Go to Research Page</a></p>
+<section id="latest-updates" class="level1" style="text-align: center; width: 100%">
+<h1>Latest Updates:</h1>
+<p><a href="#" class="btn btn-primary">View content in Slides</a></p>
+</section>
+<div style="text-align: center; width: 100%;">
+
 </div>
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://linkedin.com/in/khayatzadeh" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/parsakhay" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://X.com/parsa_khay" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -197,6 +192,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

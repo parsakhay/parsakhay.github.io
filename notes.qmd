@@ -9,4 +9,8 @@ listing:
     filter-ui: true
 ---
 
-Welcome to my blog! Here you will find all my latest posts.
+Welcome to my blog! My notes are rooted in my lived experiences and my thoughts around my research. 
+
+I study Human-Earth systems, it is invetible to think further and dream about all the possible futures. In research I try to be neutral while in my notes, I find myself free going deeper and and more thoughtful the possible images of out future world.
+
+My mother-laguage is Farsi, so you find my Farsi notes more artistic. In English, thanks to the limited vocabulary mostly came from an academic literature, I write more logical.

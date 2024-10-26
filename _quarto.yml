@@ -9,6 +9,9 @@ website:
       - text: About me
         href: about-me.qmd
         icon: person-circle
+      - text: Research
+        href: research.qmd
+        icon: bi-globe
       - text: Notes
         icon: bi-journals
         href: notes.qmd
