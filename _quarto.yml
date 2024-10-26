@@ -17,7 +17,7 @@ website:
         href: notes.qmd
     right:
       - text: CV
-        icon: bi-chat-dotsbi-file-earmark-person
+        icon: bi-file-earmark-person
         href: https://parsakhay.com/cv
       - icon: bi-chat-dots
         text: Contact me!
