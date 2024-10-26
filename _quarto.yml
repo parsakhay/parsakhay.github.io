@@ -9,15 +9,16 @@ website:
       - text: About me
         href: about-me.qmd
         icon: person-circle
+      - text: Notes
+        icon: bi-journals
+        href: notes.qmd
     right:
-      - icon: twitter
-        text: Twitter
-        href: https://twitter.com/parsakhay
+      - icon: bi-chat-dots
+        text: Contact me!
+        href: contact.qmd
       - icon: linkedin
-        text: LinkedIn
         href: https://linkedin.com/in/khayatzadeh
       - icon: github
-        text: Github
         href: https://github.com/parsakhay
 format:
   html:
