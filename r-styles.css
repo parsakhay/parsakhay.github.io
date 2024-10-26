@@ -1,0 +1,9 @@
+/* Center title and subtitle with increased specificity */
+.title-block .title-block-title, 
+.title-block .title-block-subtitle {
+    text-align: center !important;
+    margin: 0 auto;
+}
+
+.title-block {
+    text-align: center;}

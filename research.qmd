@@ -4,15 +4,23 @@ subtitle: "Individual and lab research activities"
 page-layout: full
 title-block-banner: false
 image: profile.png
+format: 
+  html: 
+    partials: ["_partials/title-block.html"]
+    css: r-styles.css
 ---
+
+
+# Research Page {class="title-block-title"}
+*Individual and lab research activities* {class="title-block-subtitle"}
 
 ::: {.text-center}
 ## Current Projects:
 :::
 
-**Downscaled Integrated Assessment Modeling**
+### Downscaled Integrated Assessment Modeling
 
-<a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn btn-primary">Go to Research Page</a>
+<a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn" style="background-color: lightgrey;">Go to Research Page</a>
 
 ::: {style="text-align: center; width: 100%"}
 # Latest Updates:
