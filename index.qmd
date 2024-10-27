@@ -36,5 +36,5 @@ Feel free to reach out to me if you have any questions or if you would like to c
 \
 [Latest Update of my research](https://parsakhay.com/Downscaled-IAM-Research-2024/){.btn .btn-light}\
 \
-[Some Photos](media.qmd){.btn .btn-light}
+<!-- [Some Photos](media.qmd){.btn .btn-light} -->
 :::
