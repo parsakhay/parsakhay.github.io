@@ -25,7 +25,7 @@
     "href": "notes.html",
     "title": "Notebook",
     "section": "",
-    "text": "Welcome to my blog! My notes are rooted in my lived experiences and my thoughts around my research.\nI study Human-Earth systems, it is invetible to think further and dream about all the possible futures. In research I try to be neutral while in my notes, I find myself free going deeper and and more thoughtful the possible images of out future world.\nMy mother-laguage is Farsi, so you find my Farsi notes more artistic. In English, thanks to the limited vocabulary mostly came from an academic literature, I write more logical.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nتراژدی در جریان است\n\n\n\nPersian\n\n\n\n\n\n\n\n\n\n\nJul 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my blog! My notes are rooted in my lived experiences and my thoughts around my research.\nI study Human-Earth systems, it is invetible to think further and dream about all the possible futures. In research I try to be neutral while in my notes, I find myself free going deeper and and more thoughtful the possible images of out future world.\nMy mother-laguage is Farsi, so you find my Farsi notes more artistic. In English, thanks to the limited vocabulary mostly came from an academic literature, I write more logical.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nResearch Theme Interest: Human Centered Systems Design\n\n\n\nresearch\n\n\nideas\n\n\n\n\n\n\n\nParsa Khay\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nتراژدی در جریان است\n\n\n\nPersian\n\n\n\n\n\n\n\n\n\n\nJul 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nJun 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research.html",
@@ -46,7 +46,7 @@
     "href": "contact.html",
     "title": "Get in Touch",
     "section": "",
-    "text": "Here is a warning.\n\nMore content.\n\nThis is some text\nYou can reach me via the following methods: -  Email: your-email@example.com -  LinkedIn: Your LinkedIn Profile -  GitHub: Your GitHub Profile\nFeel free to reach out for collaborations, questions, or just to connect!"
+    "text": "Get in Touch\n\n\nI’m always happy to connect! Reach out via:\n\n\n&lt;div class=\"col-md-4 mb-4\"&gt;\n  &lt;a href=\"mailto:your-email@example.com\" class=\"text-decoration-none text-dark\"&gt;\n    &lt;div class=\"card border-0 shadow-sm\"&gt;\n      &lt;div class=\"card-body\"&gt;\n        &lt;img src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/envelope.svg\" alt=\"Email\" width=\"40\" class=\"mb-2\"&gt;\n        &lt;h5 class=\"card-title\"&gt;Email&lt;/h5&gt;\n        &lt;p class=\"card-text\"&gt;your-email@example.com&lt;/p&gt;\n      &lt;/div&gt;\n    &lt;/div&gt;\n  &lt;/a&gt;\n&lt;/div&gt;\n\n&lt;div class=\"col-md-4 mb-4\"&gt;\n  &lt;a href=\"https://www.linkedin.com/in/yourprofile\" class=\"text-decoration-none text-dark\"&gt;\n    &lt;div class=\"card border-0 shadow-sm\"&gt;\n      &lt;div class=\"card-body\"&gt;\n        &lt;img src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/linkedin.svg\" alt=\"LinkedIn\" width=\"40\" class=\"mb-2\"&gt;\n        &lt;h5 class=\"card-title\"&gt;LinkedIn&lt;/h5&gt;\n        &lt;p class=\"card-text\"&gt;Your LinkedIn Profile&lt;/p&gt;\n      &lt;/div&gt;\n    &lt;/div&gt;\n  &lt;/a&gt;\n&lt;/div&gt;\n\n&lt;div class=\"col-md-4 mb-4\"&gt;\n  &lt;a href=\"https://github.com/yourusername\" class=\"text-decoration-none text-dark\"&gt;\n    &lt;div class=\"card border-0 shadow-sm\"&gt;\n      &lt;div class=\"card-body\"&gt;\n        &lt;img src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/github.svg\" alt=\"GitHub\" width=\"40\" class=\"mb-2\"&gt;\n        &lt;h5 class=\"card-title\"&gt;GitHub&lt;/h5&gt;\n        &lt;p class=\"card-text\"&gt;Your GitHub Profile&lt;/p&gt;\n      &lt;/div&gt;\n    &lt;/div&gt;\n  &lt;/a&gt;\n&lt;/div&gt;\n\n\nFeel free to reach out for collaborations, questions, or just to connect!"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -61,5 +61,33 @@
     "title": "Parsa Khayatzadeh",
     "section": "",
     "text": "Hi! My name is Parsa Khayatzadeh. I am a Ph.D. student in Systems Engineering at Cornell University. I am a member of Charles’ research group, focusing on computational sustainability under the supervision of Prof. Michael Charles. My current research focus is on Integrated Assessment modeling.\nI have started my Ph.D. in fall 2023. Before then, I received my B.Sc. in Industrial Engineering from University of Tehran in 2022.\nI am interested in the human-earth models and the intersection of climate, economy, and society. My study includes both systems analysis and optimization.\nFeel free to reach out to me if you have any questions or if you would like to collaborate on a project. I am always open to new ideas and opportunities!\n\n\nMy notes\n\nLatest Update of my research\n\nSome Photos"
+  },
+  {
+    "objectID": "posts/Human-Centered-System/index.html",
+    "href": "posts/Human-Centered-System/index.html",
+    "title": "Research Theme Interest: Human Centered Systems Design",
+    "section": "",
+    "text": "Background: - SSPs are the very initial naratives of the future scenarios. - IAMs will describe how is the possible image of the human-earth system based on each scenario - IAMs are including technology improvement but not the transformative techs. - Human-Robot colaboration is transforming how we consume, how we produce. - What if there is no such traditional crop consumption system after 2040s?\nSo: - Beside the technologists who are developing the tech, there should be systems engineers and analysts who describe the plausible images. - There should be more developed naratives responsive to techonology transformations Ideas: - Develop lifecycle assessments: measuring the functional units of new technologies. - Compare the dynamics of emerging products: contrasting them with conventional systems. - Involve integrated assessment modeling: analyse the compound effect of emerging comodities.\nChallenges: - Huge uncertainty - No supply-demand curve available\nTheme: Integrated Assessment Modeling:\nTheme(Looks like a fiction, but I will keep it in science): Develop an idea, Develop a Product: a Human Centered Systems Design"
+  },
+  {
+    "objectID": "posts/Human-Centered-System/index.html#cant-we-see-the-change-lets-see-it-together",
+    "href": "posts/Human-Centered-System/index.html#cant-we-see-the-change-lets-see-it-together",
+    "title": "Research Theme Interest: Human Centered Systems Design",
+    "section": "Can’t we see the change? Let’s see it together!",
+    "text": "Can’t we see the change? Let’s see it together!\nDoesn’t these technology change how we produce and consume things? Let’s put our computational sustainability lenses!\nEconomy is impacted by climate change, and the economy is impacted by the transformations we lead in adaption to climate change."
+  },
+  {
+    "objectID": "posts/Archive/post-with-code/index.html",
+    "href": "posts/Archive/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/Archive/welcome/index.html",
+    "href": "posts/Archive/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
