@@ -10,23 +10,17 @@ format:
     css: r-styles.css
 ---
 
-
-# Research Page {class="title-block-title"}
-*Individual and lab research activities* {class="title-block-subtitle"}
-
 ::: {.text-center}
 ## Current Projects:
 :::
 
 ### Downscaled Integrated Assessment Modeling
+<a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn btn-primary">Go to Research Page</a>
 
-<a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn" style="background-color: lightgrey;">Go to Research Page</a>
+### (Personal Project) Human Centered Systems Design
 
+<!-- 
 ::: {style="text-align: center; width: 100%"}
 # Latest Updates:
 <a href="#" class="btn btn-primary">View content in Slides</a>
-:::
-
-
-::: {style="text-align: center; width: 100%;"}
-:::
+::: -->
