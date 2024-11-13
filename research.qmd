@@ -6,7 +6,6 @@ title-block-banner: false
 image: profile.png
 format: 
   html: 
-    partials: ["_partials/title-block.html"]
     css: r-styles.css
 ---
 
