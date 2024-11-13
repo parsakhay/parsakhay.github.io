@@ -16,7 +16,7 @@ format:
 ### Downscaled Integrated Assessment Modeling
 <a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn btn-primary">Go to Research Page</a>
 
-### (Personal Project) Human Centered Systems Design
+### <span style="color: gray;">(Personal Project) Human Centered Systems Design</span>
 
 <!-- 
 ::: {style="text-align: center; width: 100%"}
