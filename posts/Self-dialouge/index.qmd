@@ -1,0 +1,20 @@
+---
+title: "تراژدی در جریان است"
+subtitle: "منتشر شده در شماره‌ی ۱۸ نشریه فن‌کاو | مرداد ماه ۱۴۰۱"
+date: 07-22-2024
+date-meta: 07-22-2024
+lang: fa
+categories: [Persian]
+image: "image.webp"
+format: html
+
+---
+
+
+<div style="direction: rtl; text-align: right;">
+  <iframe 
+    src="https://docs.google.com/document/d/e/2PACX-1vSIHa4ol9X3qM95Vchfu6TNfnqZj-d_tQAjyXN7ZRqhuEcScvG6V95oQvzWUNVPjHWIGfdJqe-BHztd/pub?embedded=true" 
+    style="width: 100%; height: 100vh; border: none;">
+  </iframe>
+</div>
+
