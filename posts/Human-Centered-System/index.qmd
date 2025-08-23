@@ -5,7 +5,7 @@ date: "2024-11-06"
 date-meta: 11-06-2024
 lang: en
 categories: [research, ideas]
-image: "image.png"
+image: "image.jpeg"
 ---
 
 *Background:*
