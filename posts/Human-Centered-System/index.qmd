@@ -2,7 +2,9 @@
 title: "Research Theme Interest: Human Centered Systems Design"
 author: "Parsa Khay"
 date: "2024-11-06"
+lang: en
 categories: [research, ideas]
+image: "image.png"
 ---
 
 *Background:*
