@@ -5,7 +5,7 @@ date: 11-12-2024
 date-meta: 11-12-2024
 lang: fa
 categories: [Persian, Personal]
-image: "image.webp"
+image: "image.png"
 format:
   html:
     css: "Styles.css"
