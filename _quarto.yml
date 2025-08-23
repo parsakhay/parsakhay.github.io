@@ -30,6 +30,8 @@ format:
   html:
     theme: cosmo
     css: styles.css
+resources: 
+  - CNAME
 
 
 
