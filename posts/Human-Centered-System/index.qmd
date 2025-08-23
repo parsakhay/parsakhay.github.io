@@ -8,6 +8,8 @@ categories: [research, ideas]
 image: "image.jpeg"
 ---
 
+In this note, I explore how human-centered systems design can reshape the way we think about future technologies, consumption, and sustainability. As robots, synthetic foods, and transformative innovations enter our daily lives, we need frameworks that go beyond traditional models to imagine—and assess—their real impacts on society and the environment. This piece reflects on that challenge and sketches directions for integrating emerging technologies into integrated assessment modeling and sustainability narratives.
+
 *Background:*
 
 - SSPs are the very initial narratives of the future scenarios. 
