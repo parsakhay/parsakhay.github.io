@@ -4,7 +4,7 @@ subtitle: "یادداشت شخصی"
 date: 11-12-2024
 date-meta: 11-12-2024
 lang: fa
-categories: [Persian, Personal]
+categories: [Persian, personal]
 image: "image.png"
 format:
   html:
