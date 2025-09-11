@@ -1,6 +1,6 @@
 ---
 title: "عبور"
-subtitle: "یادداشت شخصی"
+subtitle: "این‌عبور که حادث می‌شود."
 date: 04-04-2025
 date-meta: 04-04-2025
 lang: fa
