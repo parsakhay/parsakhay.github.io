@@ -2,18 +2,6 @@
 title: "Get in Touch"
 ---
 
-::::: {#special .sidebar}
-
-::: {.warning}
-Here is a warning.
-:::
-
-More content.
-:::::
-
-
-[This is *some text*]{.class key="val"}
-
 You can reach me via the following methods:
 - ![envelope](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/envelope.svg) **Email:** [your-email@example.com](mailto:your-email@example.com)
 - ![linkedin](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/linkedin.svg) **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
