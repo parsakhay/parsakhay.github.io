@@ -34,7 +34,7 @@ Feel free to reach out to me if you have any questions or if you would like to c
 
 [My notes](notes.qmd){.btn .btn-light .btn-block}\
 \
-[Latest Update of my research](https://parsakhay.com/Downscaled-IAM-Research-2024/){.btn .btn-light}\
+[Latest Update of my research](research.qmd){.btn .btn-light}\
 \
 <!-- [Some Photos](media.qmd){.btn .btn-light} -->
 :::

@@ -10,7 +10,7 @@ format:
 ---
 
 ::: {style="text-align: center; width: 100%"}
-# Latest Updates:
+# Latest Updates
 :::
 - **2025 Aug 4:** Oral presentation at NABEC 2025  
   I presented my research titled: **"Downscaled assessment of climate change impacts on agriculture and water management: a case study of the Navajo Nation"** in the Northeast Agricultural / Biological Engineering Conference (**NABEC 2025**) in Ithaca, NY. 
