@@ -3,9 +3,10 @@ title: "Get in Touch"
 ---
 
 You can reach me via the following methods:
-- ![envelope](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/envelope.svg) **Email:** [your-email@example.com](mailto:your-email@example.com)
-- ![linkedin](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/linkedin.svg) **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- ![github](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/github.svg) **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+
+- ![envelope](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/envelope.svg) **Email:** [pk525@cornell.edu](mailto:pk525@cornell.edu)
+- ![linkedin](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/linkedin.svg) **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/khayatzadeh)
+- ![github](https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/icons/github.svg) **GitHub:** [Your GitHub Profile](https://github.com/parsakhay)
 
 
 Feel free to reach out for collaborations, questions, or just to connect!
