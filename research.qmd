@@ -9,11 +9,6 @@ format:
     css: r-styles.css
 ---
 
-::: {.text-center}
-## Current Projects:
-:::
-
-
 ::: {style="text-align: center; width: 100%"}
 # Latest Updates:
 :::
