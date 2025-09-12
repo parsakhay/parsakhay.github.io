@@ -13,13 +13,18 @@ format:
 ## Current Projects:
 :::
 
-### Downscaled Integrated Assessment Modeling
-<a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn btn-primary">Go to Research Page</a>
 
-### <span style="color: gray;">(Personal Project) Human Centered Systems Design</span>
-
-<!-- 
 ::: {style="text-align: center; width: 100%"}
 # Latest Updates:
-<a href="#" class="btn btn-primary">View content in Slides</a>
-::: -->
+:::
+- **2025 Aug 4:** Oral presentation at NABEC 2025  
+  I presented my research titled: **"Downscaled assessment of climate change impacts on agriculture and water management: a case study of the Navajo Nation"** in the Northeast Agricultural / Biological Engineering Conference (**NABEC 2025**) in Ithaca, NY. 
+- **2024 Aug 30:** Systems Engineering Ph.D. Q Exam  
+I successfuly passed my Qualifying Exam. In the exam I presented my research plans and perliminary results around downscaled ex Integrated Assessment Modeling(IAM) and 
+
+ 
+<!-- 
+### Downscaled Integrated Assessment Modeling
+<a href="https://parsakhay.com/Downscaled-IAM-Research-2024/" class="btn btn-primary">Go to Research Page</a> -->
+<!-- 
+### <span style="color: gray;">(Personal Project) Human Centered Systems Design</span> -->
