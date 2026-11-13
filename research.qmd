@@ -15,6 +15,9 @@ format:
 
 - **2026 Oct 12** Oral presentation at CCS26  
   I presented my research titled: **"Climate-Responsive Irrigation Optimization in Arid Regions:an Integrated Climate-Crop Framework"** in the 2026 Conference on Complex Systems (**CCS26**) in Binghamton, NY.
+
+- **2026 May 8** Candidacy Exam  
+  I successfully passed my candidacy exam! I presented my research plans and preliminary results under the title **"Climate-Responsive Crop Irrigation for Arid Regions: From Framework to Practice"**. My Ph.D. committee members are Prof. Michael Charles (Chair), Prof. Benjamin Houlton, Prof. Oliver Gao, and Prof. Flavio Lehner.
 - **2025 Dec 13** Oral presentation at AGU25 
   I presented my research titled: **"Integrated Climate–Crop Modeling to Advance Water Management in Rural and Drought-Prone Regions"** in the American Geophysical Union (**AGU25**) in New Orleans, LA.
 - **2025 Aug 4:** Oral presentation at NABEC 2025  
