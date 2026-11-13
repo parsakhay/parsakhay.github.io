@@ -4,11 +4,13 @@ subtitle: "پاینده انسان، پاینده زمین"
 date: 2026-11-12
 date-meta: 2026-11-12
 lang: fa
+dir: rtl
 categories: [Persian, personal]
 image: "image.png"
 format:
   html:
     css: "Styles.css"
+description: "باور من درباره‌ی انسانیت، معنویت، دین، ملی‌گرایی و مسئولیت ما در حفظ جان انسان و طبیعت."
 ---
 
 ::: {.farsi-text}
